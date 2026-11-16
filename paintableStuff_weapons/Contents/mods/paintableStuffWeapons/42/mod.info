@@ -1,0 +1,10 @@
+name=Paintable Stuff - Weapons
+modversion=0.1.0
+author=TeaStain
+id=tsPaintableStuffWeapons
+description=Allows a selection of weapons to be painted.
+description=
+description=Requires "Paintable Stuff".
+category=features
+require=tsPaintableStuff
+loadModAfter=tsPaintableStuff

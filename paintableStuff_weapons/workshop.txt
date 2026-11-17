@@ -3,5 +3,5 @@ version=0.1.5
 description=Allows a selection of weapons to be painted.
 description=
 description=Requires "Paintable Stuff".
-tags=
+tags=Build 42;Items;Weapons
 visibility=public

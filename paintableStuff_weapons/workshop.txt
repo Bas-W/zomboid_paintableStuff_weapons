@@ -1,5 +1,5 @@
 title=Paintable Stuff - Weapons
-version=0.1.2
+version=0.1.3
 description=Allows a selection of weapons to be painted.
 description=
 description=Requires "Paintable Stuff".

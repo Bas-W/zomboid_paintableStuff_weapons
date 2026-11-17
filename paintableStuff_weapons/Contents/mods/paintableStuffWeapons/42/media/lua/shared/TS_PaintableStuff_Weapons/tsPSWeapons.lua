@@ -2,5 +2,6 @@
 
 require "TS_PaintableStuff/tsPaintStuffApi"
 
-TS_PaintStuff.registerPaintable("Base.Pistol2", { index = 0 }) -- 1911
-TS_PaintStuff.registerPaintable("Base.Revolver_Short", { index = 0 }) -- M36
+TS_PaintStuff.registerPaintable("Base.Pistol2") -- 1911
+TS_PaintStuff.registerPaintable("Base.Revolver_Short") -- M36
+TS_PaintStuff.registerPaintable("Base.JS3T_Shotgun") -- JS3T
